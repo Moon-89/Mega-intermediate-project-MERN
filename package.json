@@ -2,6 +2,7 @@
   "name": "cinebook",
   "version": "1.0.0",
   "private": true,
+  "type": "module",
   "description": "CineBook - a MERN movie ticket booking system with role-based auth",
   "scripts": {
     "setup": "npm install && npm --prefix server install && npm --prefix client install",
